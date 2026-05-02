@@ -1,10 +1,11 @@
 # Network Stress Tester
+
 Created by Mashfu
 
-Ei tool-ti educational purpose ebong network stress testing-er jonno banano hoyeche.
+This tool was created for educational purposes and network stress testing.
 
 ## Installation (Termux)
-Nicher command-gulo ekta ekta kore Termux-e copy-paste koro:
+Copy and paste the following commands into Termux one by one:
 
 ```bash
 pkg update && pkg upgrade
